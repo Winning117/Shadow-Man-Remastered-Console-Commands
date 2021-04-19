@@ -64,11 +64,11 @@ givevoodoo <amount between 0 and 100> - sets the player's voodoo power (orange b
 
 givecadeaux <amount between -666 and 666> - gives the player the specified amount of cadeaux
 
-giveammo9mm <amount between -100 and 100> - guves the player the specified amount of 9mm ammo
+giveammo9mm <amount between -100 and 100> - gives the player the specified amount of 9mm ammo
 
-giveammoshotgun <amount between -12 and 12> - guves the player the specified amount of shotgun ammo
+giveammoshotgun <amount between -12 and 12> - gives the player the specified amount of shotgun ammo
 
-giveammoviolator <amount between -250 and 250> - guves the player the specified amount of violator ammo
+giveammoviolator <amount between -250 and 250> - gives the player the specified amount of violator ammo
 
 spawnobj
 
