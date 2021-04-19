@@ -1,8 +1,10 @@
 # Shadow-Man-Remastered-Console-Commands
 
 stat
-	stat shadowman.player - list player info
-	stat shadowman.ai - list AI information
+<ul>
+	<li>stat shadowman.player - list player info</li>
+	<li>stat shadowman.ai - list AI information</li>
+</ul>
 
 freecam - allows you to fly around with a free camera that isn't attached to the player
 
@@ -21,37 +23,39 @@ freezegamelogic - freezes the game's logic
 givetedpoints - unlocks all teddy warps
 
 giveinv - gives the player the specified item
-	giveinv -1 - gives the player all items
-	giveinv 1 - gives the player an Accumulator
-	giveinv 2 - gives the player the Asson
-	giveinv 3 - gives the player the Baton
-	giveinv 4 - gives the player the Book of Shadows
-	giveinv 5 - gives the player a Cadeaux
-	giveinv 6 - gives the player the Calabash
-	giveinv 7 - gives the player the Handgun
-	giveinv 8 - ???
-	giveinv 9 - gives the player the Engineer's Key
-	giveinv 10 - gives the player the Enseigne
-	giveinv 11 - gives the player the Flambeau
-	giveinv 12 - gives the player the 0.9-SMG
-	giveinv 13 - gives the player the MP909
-	giveinv 14 - gives the player the Flashlight
-	giveinv 15 - ???
-	giveinv 16 - gives the player the L'Eclipser: La Lune
-	giveinv 17 - gives the player the L'Eclipser: La Lame
-	giveinv 18 - gives the player the Marteau
-	giveinv 19 - ???
-	giveinv 20 - gives the player a Prism
-	giveinv 21 - gives the player the Key Card
-	giveinv 22 - gives the player The Prophecy
-	giveinv 23 - gives the player a Retractor
-	giveinv 24 - gives the player Jack's Journal
-	giveinv 25 - gives the player the Handgun
-	giveinv 26 - gives the player the Shotgun
-	giveinv 27 - ???
-	giveinv 28 - gives the player the L'Eclipser: Le Soleil
-	giveinv 29 - gives the player the Teddy Bear
-	giveinv 30 - gives the player the Violator (and the second violator if you type it again)
+<ul>
+	<li>giveinv -1 - gives the player all items</li>
+	<li>giveinv 1 - gives the player an Accumulator</li>
+	<li>giveinv 2 - gives the player the Asson</li>
+	<li>giveinv 3 - gives the player the Baton</li>
+	<li>giveinv 4 - gives the player the Book of Shadows</li>
+	<li>giveinv 5 - gives the player a Cadeaux</li>
+	<li>giveinv 6 - gives the player the Calabash</li>
+	<li>giveinv 7 - gives the player the Handgun</li>
+	<li>giveinv 8 - ???</li>
+	<li>giveinv 9 - gives the player the Engineer's Key</li>
+	<li>giveinv 10 - gives the player the Enseigne</li>
+	<li>giveinv 11 - gives the player the Flambeau</li>
+	<li>giveinv 12 - gives the player the 0.9-SMG</li>
+	<li>giveinv 13 - gives the player the MP909</li>
+	<li>giveinv 14 - gives the player the Flashlight</li>
+	<li>giveinv 15 - ???</li>
+	<li>giveinv 16 - gives the player the L'Eclipser: La Lune</li>
+	<li>giveinv 17 - gives the player the L'Eclipser: La Lame</li>
+	<li>giveinv 18 - gives the player the Marteau</li>
+	<li>giveinv 19 - ???</li>
+	<li>giveinv 20 - gives the player a Prism</li>
+	<li>giveinv 21 - gives the player the Key Card</li>
+	<li>giveinv 22 - gives the player The Prophecy</li>
+	<li>giveinv 23 - gives the player a Retractor</li>
+	<li>giveinv 24 - gives the player Jack's Journal</li>
+	<li>giveinv 25 - gives the player the Handgun</li>
+	<li>giveinv 26 - gives the player the Shotgun</li>
+	<li>giveinv 27 - ???</li>
+	<li>giveinv 28 - gives the player the L'Eclipser: Le Soleil</li>
+	<li>giveinv 29 - gives the player the Teddy Bear</li>
+	<li>giveinv 30 - gives the player the Violator (and the second violator if you type it again)</li>
+</ul>
 	
 
 inventory
@@ -73,14 +77,16 @@ playspeech
 testcutscene
 
 givegad
-	givegad 0 - removes all gads
-	givegad 1 - 
-	givegad 2 - 
-	givegad 3 - 
-	givegad 4 - gives the player poigne and gad 1
-	givegad 5 - gives the player poigne and gad 2
-	givegad 6 - gives the player poigne and gad 3
-	givegad 7 - gives the player poigne and gad 4
+<ul>
+	<li>givegad 0 - removes all gads</li>
+	<li>givegad 1 - </li>
+	<li>givegad 2 - </li>
+	<li>givegad 3 - </li>
+	<li>givegad 4 - gives the player poigne and gad 1</li>
+	<li>givegad 5 - gives the player poigne and gad 2</li>
+	<li>givegad 6 - gives the player poigne and gad 3</li>
+	<li>givegad 7 - gives the player poigne and gad 4</li>
+</ul>
 
 setpos <sector> <x> <y> <z> - sets the players position
 
